@@ -20,6 +20,13 @@ The code features:
     <li>Optimization problem is solved inside "local_soln.m";</li>
 </ul>
 
+Requirements:
+<ul type="square">
+<!-- li><code>todo</code> </li -->
+    <li>Gurobi Optimization Software;</li>
+    <li>Matlab Optimization Toolbox (optional to calculate low level MPC trajectories);</li>
+</ul>
+
 Paper:
 
 Ali Tevfik Buyukkocak, Derya Aksaray, and Yasin Yazicioglu. "Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications." AIAA Scitech. 2021, pp. 1123.
