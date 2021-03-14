@@ -11,7 +11,7 @@ high-level trajectories. The resulting high-level trajectories are then tracked 
 via Model Predictive Control. Illustrative simulation and experiment results are presented in
 addition to comparing the proposed method with a centralized solution.
 
-The code can be used to:
+The code features:
 <ul type="square">
 <!-- li><code>todo</code> </li -->
     <li>Plan the trajectories of multiple agents that achieve STL specifications coupled with other agents;</li>
