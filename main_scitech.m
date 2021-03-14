@@ -88,10 +88,10 @@ end
 
 % Check if any relaxation remains needed, if not break
 if k>1 && any(any(cell2mat(deltas)>0.1))~=1
-    fprintf('Solved in %d iterations!\n',k)
+    fprintf(2,'Solved in %d iterations!\n',k)
     break
 else
-    fprintf('Iteration %d failed!\n',k)
+    fprintf(2,'Iteration %d failed!\n',k)
 end
      
 end
