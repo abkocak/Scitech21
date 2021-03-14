@@ -5,7 +5,7 @@
 %%%               Temporal Logic Specifications                  %%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Note: The multiplications with 0.2875 are there to match numbers with 
-% the experimental environment dimensions
+% the experiment environment dimensions
 
 clc;clear all;close all;clear global
 addpath(genpath('.'))
@@ -90,7 +90,7 @@ end
 if k>1 && any(any(cell2mat(deltas)>0.1))~=1
     fprintf(2,'Solved in %d iterations!\n',k)
     break
-else
+elseif k>1
     fprintf(2,'Iteration %d failed!\n',k)
 end
      
