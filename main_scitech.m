@@ -4,7 +4,7 @@
 %%%     Distributed Planning of Multi-Agent Systems with Coupled %%%%%%%%%%
 %%%               Temporal Logic Specifications                  %%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Note: The multiplications with 0.2875 are there to match numbers with 
+% Note: The multiplications with 0.2875 are there to match the numbers with 
 % the experiment environment dimensions
 
 clc;clear all;close all;clear global
