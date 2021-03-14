@@ -10,3 +10,12 @@ formulated as a Mixed Integer Linear Program and an off-the-shelf tool is used t
 high-level trajectories. The resulting high-level trajectories are then tracked by the agents
 via Model Predictive Control. Illustrative simulation and experiment results are presented in
 addition to comparing the proposed method with a centralized solution.
+
+The code can be used to:
+<ul type="square">
+<!-- li><code>todo</code> </li -->
+    <li>Plan the trajectories of multiple vehicles that achieve STL specifications coupled with other agents;</li>
+    <li>Environment can be defined in ***main_scitech.m***;</li>
+    <li>STL formula can be defined in "cons_STL.m";</li>
+    <li>Optimization problem is solved inside "local_soln.m";</li>
+</ul>
