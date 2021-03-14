@@ -19,3 +19,8 @@ The code features:
     <li>STL formula is constructed in "cons_STL.m";</li>
     <li>Optimization problem is solved inside "local_soln.m";</li>
 </ul>
+
+Paper:
+
+Ali Tevfik Buyukkocak, Derya Aksaray, and Yasin Yazicioglu. "Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications." AIAA Scitech. 2021, pp. 1123.
+
