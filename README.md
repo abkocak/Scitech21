@@ -23,7 +23,8 @@ The code features:
 Requirements:
 <ul type="square">
 <!-- li><code>todo</code> </li -->
-    <li>Gurobi Optimization Software;</li>
+    <li>YALMIP in <a href="https://yalmip.github.io" target="_blank">https://yalmip.github.io</a>;</li>
+    <li>Gurobi Optimization Software in <a href="https://www.gurobi.com" target="_blank">https://www.gurobi.com</a>;</li>
     <li>Matlab Optimization Toolbox (optional to calculate low level MPC trajectories);</li>
 </ul>
 
