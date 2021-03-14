@@ -1,4 +1,4 @@
-**Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications**
+# Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications
 
 In this paper, we investigate the multi-agent mission planning and control problem under
 coordination constraints such as collision avoidance and spatial coherence. We propose a
