@@ -1,7 +1,7 @@
 function [A,B,u_limit] = agent_dynamics(i_agent)
 global dt
 
-% Function to transmit agent-specific dynamics
+% Function to transmit agent-specific dynamics (here agents are identical)
 
 A = eye(2); % Simple dynamics are x_dot=u_x , y_dot=u_y
 B = dt*eye(2); % OR x[k+1]=x[k]+dt*u_x[k] , y[k+1]=y[k]+dt*u_y[k] 
