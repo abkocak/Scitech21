@@ -29,5 +29,6 @@ Requirements:
 </ul>
 
 Paper:
+
 Ali Tevfik Buyukkocak, Derya Aksaray, and Yasin Yazicioglu. "Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications." AIAA Scitech. 2021, pp. 1123.
 
