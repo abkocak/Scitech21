@@ -28,6 +28,12 @@ Requirements:
     <li>Matlab Optimization Toolbox (optional to calculate low level MPC trajectories);</li>
 </ul>
 
+## Video
+The following video of experiments highlights some key points in the paper.
+
+https://github.com/abkocak/Scitech21/assets/80661909/e367efe5-7180-4669-aa4c-2002d394fa58
+
+
 Paper:
 
 Ali Tevfik Buyukkocak, Derya Aksaray, and Yasin Yazicioglu. "Distributed Planning of Multi-Agent Systems with Coupled Temporal Logic Specifications." AIAA Scitech. 2021, pp. 1123.
